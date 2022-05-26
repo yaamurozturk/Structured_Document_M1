@@ -2,6 +2,8 @@
 
 The objective of the Structured Documents course is to learn how to use the XML language in order to become familiar with structuring a document with tags. The final output of this course is an XML site that gathers a series of exercises that use the different tools and features available in this language.
 
+Professors: Serge Fleury, Ioana Marasescu-Galleron
+
 Languages used
 ---
 - XML
