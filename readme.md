@@ -5,7 +5,7 @@ The objective of the Structured Documents course is to learn how to use the XML 
 Languages used
 ---
 - XML
-The Extensible Markup Language is a language that derives from SGML and that allows to structure a file with tags. By associating a DTD, we can verify that our XML file is well formed and with a CSS, we can describe the way it should be presented.
+(The Extensible Markup Language) is a language that derives from SGML and that allows to structure a file with tags. By associating a DTD, we can verify that our XML file is well formed and with a CSS, we can describe the way it should be presented.
 
 - XSLT
 (Extensible Stylesheet Language Transformations) is a language that allows you to transform XML documents into other XML documents or other formats such as HTML for web pages, plain text or XSL formatting objects.
